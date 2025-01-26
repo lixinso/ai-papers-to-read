@@ -1,7 +1,7 @@
 # Best AI Papers to Read
 ### [That are publicly available]
 - [DeepSeek-V3 Technical Report](https://github.com/deepseek-ai/DeepSeek-V3/blob/main/DeepSeek_V3.pdf)
-- [ADAPTIVE IN-CONVERSATION TEAM BUILDING FOR LANGUAGE MODEL AGENTS](https://arxiv.org/pdf/2405.19425)
+- [Adaptive In-Conversion Team Building For Language Model Agent](https://arxiv.org/pdf/2405.19425)
 - [Agent AI Towards a Holistic Intelligence](https://www.microsoft.com/en-us/research/uploads/prod/2024/02/AgentAI_p.pdf?utm_source=chatgpt.com)
 - [Large Language Model-Brained GUI Agents: A Survey](https://arxiv.org/pdf/2411.18279)
 - [MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering](https://arxiv.org/abs/2410.07095), 24 Oct 2024, OpenAI
