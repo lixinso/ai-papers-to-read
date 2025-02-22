@@ -24,3 +24,4 @@
 | Title | Link | Author | Date |
 |-------|------|--------|------|
 | OLMo | [link]([https://arxiv.org/abs/2502.13189](https://github.com/allenai/OLMo)) | - | - |
+| nanoGPT | [link](https://github.com/karpathy/nanoGPT) | - | - |
