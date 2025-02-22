@@ -1,6 +1,7 @@
 # Best AI Papers to Read
 ### [That are publicly available]
 
+## Papers
 
 | Title | Link | Author | Date |
 |-------|------|--------|------|
@@ -18,3 +19,8 @@
 | AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework | [arXiv](https://arxiv.org/abs/2308.08155) | Qingyun Wu, Gagan Bansal, Jieyu Zhang, Yiran Wu, Shaokun Zhang, Erkang Zhu, Beibin Li, Li Jiang, Xiaoyun Zhang, Chi Wang | ArXiv 2023 |
 
 
+## Open Source Repos (with code)
+
+| Title | Link | Author | Date |
+|-------|------|--------|------|
+| OLMo | [link]([https://arxiv.org/abs/2502.13189](https://github.com/allenai/OLMo)) | - | - |
