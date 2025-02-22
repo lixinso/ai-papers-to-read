@@ -1,5 +1,9 @@
 # Best AI Papers to Read
 ### [That are publicly available]
+
+| Title | Link | Author | Type | 
+
+
 - [MoBA: Mixture of Block Attention for Long-Context LLMs](https://arxiv.org/abs/2502.13189)
 - [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention](https://arxiv.org/abs/2502.11089)
 - [Foundations of Large Language Models](https://arxiv.org/abs/2501.09223)
