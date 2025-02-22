@@ -2,7 +2,7 @@
 ### [That are publicly available]
 
 
-| Title | Link | Author | Type |
+| Title | Link | Author | Date |
 |-------|------|--------|------|
 | MoBA: Mixture of Block Attention for Long-Context LLMs | [arXiv](https://arxiv.org/abs/2502.13189) | - | - |
 | Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention | [arXiv](https://arxiv.org/abs/2502.11089) | - | - |
