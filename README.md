@@ -1,5 +1,7 @@
 # Best AI Papers to Read
 ### [That are publicly available]
+- [MoBA: Mixture of Block Attention for Long-Context LLMs](https://arxiv.org/abs/2502.13189)
+- [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention](https://arxiv.org/abs/2502.11089)
 - [Foundations of Large Language Models](https://arxiv.org/abs/2501.09223)
 - [DeepSeek-V3 Technical Report](https://github.com/deepseek-ai/DeepSeek-V3/blob/main/DeepSeek_V3.pdf)
 - [Adaptive In-Conversion Team Building For Language Model Agent](https://arxiv.org/pdf/2405.19425)
