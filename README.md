@@ -26,3 +26,6 @@
 | OLMo | [link]([https://arxiv.org/abs/2502.13189](https://github.com/allenai/OLMo)) | - | - |
 | nanoGPT | [link](https://github.com/karpathy/nanoGPT) | - | - |
 | gigaGPT | [link](https://github.com/Cerebras/gigaGPT) | - | - |
+| Megatron-LM | [link](https://github.com/NVIDIA/Megatron-LM) | - | - |
+
+
