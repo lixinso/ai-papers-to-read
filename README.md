@@ -29,6 +29,7 @@
 | gigaGPT | [link](https://github.com/Cerebras/gigaGPT) | - | - |
 | Megatron-LM | [link](https://github.com/NVIDIA/Megatron-LM) | - | - |
 | gpt-2 | [link](https://github.com/openai/gpt-2/tree/master) | - | - |
+| grok-1 | [link](https://github.com/xai-org/grok-1) | - | - | 
 
 
 
