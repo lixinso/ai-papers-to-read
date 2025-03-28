@@ -17,6 +17,8 @@
 | The Llama 3 Herd of Models | [PDF](https://scontent-sea1-1.xx.fbcdn.net/v/t39.2365-6/468347782_9231729823505907_4580471254289036098_n.pdf?_nc_cat=110&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=kMEnijIEZ-gQ7kNvgGkvbgV&_nc_zt=14&_nc_ht=scontent-sea1-1.xx&_nc_gid=AArxIIwO-RKxc0VHEWEXrCy&oh=00_AYBtVpVUKJJ3gf-Ev83Js4tUNmA_eQCHifdaJapFuVCJtA&oe=67508F80), [Meta AI](https://ai.meta.com/research/publications/the-llama-3-herd-of-models/), [Blog](https://ai.meta.com/blog/meta-llama-3-1/), [Repo](./papers/The%20Llama%203%20Herd%20of%20Models/README.md) | - | - |
 | Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks | [Microsoft Article](https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/), [Publication](https://www.microsoft.com/en-us/research/publication/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/), [GitHub](https://github.com/microsoft/autogen/tree/main/python/packages/autogen-magentic-one) | - | - |
 | AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework | [arXiv](https://arxiv.org/abs/2308.08155) | Qingyun Wu, Gagan Bansal, Jieyu Zhang, Yiran Wu, Shaokun Zhang, Erkang Zhu, Beibin Li, Li Jiang, Xiaoyun Zhang, Chi Wang | ArXiv 2023 |
+| World Models David Ha, Jürgen Schmidhuber  | [arXiv](https://arxiv.org/abs/1803.10122?utm_source=chatgpt.com) | - | - |
+
 
 
 ## Open Source Repos (with code)
