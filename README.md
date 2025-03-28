@@ -31,7 +31,7 @@
 | gpt-2 | [link](https://github.com/openai/gpt-2/tree/master) | - | - |
 | grok-1 | [link](https://github.com/xai-org/grok-1) | - | - | 
 | open-r1 | [link](https://github.com/huggingface/open-r1)  | - | - | 
-| EleutherAI gpt-neox [link](https://github.com/EleutherAI/gpt-neox)  | - | - | 
+| EleutherAI gpt-neox | [link](https://github.com/EleutherAI/gpt-neox)  | - | - | 
 
 
 
