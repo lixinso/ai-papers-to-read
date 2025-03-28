@@ -18,8 +18,7 @@
 | Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks | [Microsoft Article](https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/), [Publication](https://www.microsoft.com/en-us/research/publication/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/), [GitHub](https://github.com/microsoft/autogen/tree/main/python/packages/autogen-magentic-one) | - | - |
 | AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework | [arXiv](https://arxiv.org/abs/2308.08155) | Qingyun Wu, Gagan Bansal, Jieyu Zhang, Yiran Wu, Shaokun Zhang, Erkang Zhu, Beibin Li, Li Jiang, Xiaoyun Zhang, Chi Wang | ArXiv 2023 |
 | World Models David Ha, Jürgen Schmidhuber  | [arXiv](https://arxiv.org/abs/1803.10122?utm_source=chatgpt.com) | - | - |
-
-
+| DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning  | [arXiv](https://arxiv.org/abs/2501.12948) | - | - |
 
 ## Open Source Repos (with code)
 
