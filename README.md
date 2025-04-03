@@ -5,6 +5,7 @@
 
 | Title | Link | Author | Date |
 |-------|------|--------|------|
+| Why Do Multi-Agent LLM Systems Fail? | https://github.com/multi-agent-systems-failure-taxonomy/MASFT \n https://huggingface.co/papers/2503.13657 | - | - |
 | MoBA: Mixture of Block Attention for Long-Context LLMs | [arXiv](https://arxiv.org/abs/2502.13189) | - | - |
 | Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention | [arXiv](https://arxiv.org/abs/2502.11089) | - | - |
 | Foundations of Large Language Models | [arXiv](https://arxiv.org/abs/2501.09223) | - | - |
