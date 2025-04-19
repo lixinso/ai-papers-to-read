@@ -5,6 +5,7 @@
 
 | Title | Link | Author | Date | Highlight | 
 |-------|------|--------|------|------|
+| DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning | https://arxiv.org/abs/2501.12948 | - | - | - |
 | DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Model| https://arxiv.org/pdf/2402.03300 | - | - | - | 
 | The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation | https://ai.meta.com/blog/llama-4-multimodal-intelligence/ | - | - |  Mixture-of-Experts (MoE) architecture | 
 | Why Do Multi-Agent LLM Systems Fail? | https://github.com/multi-agent-systems-failure-taxonomy/MASFT <br> https://huggingface.co/papers/2503.13657 | - | - | - | 
