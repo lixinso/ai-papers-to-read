@@ -5,7 +5,7 @@
 
 | Title | Link | Author | Date | Highlight | 
 |-------|------|--------|------|------|
-| Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems | https://arxiv.org/abs/2504.01990 | Bang Liu,, et al | Mar 2025 | - | 
+| Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems | https://arxiv.org/abs/2504.01990 | Bang Liu,, et al | Mar 2025 | [-](https://github.com/FoundationAgents/awesome-foundation-agents) | 
 | Foundations of Large Language Models | [(arXiv: 2501.09223 v1 [cs.CL] 16 Jan 2025)](https://arxiv.org/abs/2501.09223)  | Tong Xiao and Jingbo Zhu, NLP Lab, Northeastern University & NiuTrans Research | January 17, 2025 | - |
 | Intuitive physics understanding emerges from self-supervised pretraining on natural videos | https://arxiv.org/pdf/2502.11831 | Yann LeCun | - |  V-JEPA --a self-supervised video model |
 | DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning | https://arxiv.org/abs/2501.12948 | - | - | - |
