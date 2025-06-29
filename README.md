@@ -5,6 +5,7 @@
 
 | Title | Link | Author | Date | Highlight | 
 |-------|------|--------|------|------|
+|Potemkin Understanding in Large Language Models | https://arxiv.org/abs/2506.21521?utm_source=chatgpt.com | Marina Mancoridis, Bec Weeks, Keyon Vafa, Sendhil Mullainathan | 26 Jun 2025 |You can not create AGI with LLM|
 |Vibe Coding vs. Agentic Coding: Fundamentals and Practical Implications of Agentic AI |https://arxiv.org/abs/2505.19443|--------|------|------|
 |“V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning.”| https://arxiv.org/abs/2506.09985 | Mido Assran, Adrien Bardes, David Fan, et al. (29 co-authors, including Yann LeCun) | 11 June 2025| https://github.com/facebookresearch/vjepa2 |
 |Self-Evolving Curriculum for LLM Reasoning|https://arxiv.org/pdf/2505.14970|Yoshua Bengio, et.al|May 2025|------|
