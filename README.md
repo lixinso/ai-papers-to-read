@@ -30,6 +30,7 @@
 | AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework | [arXiv](https://arxiv.org/abs/2308.08155) | Qingyun Wu, Gagan Bansal, Jieyu Zhang, Yiran Wu, Shaokun Zhang, Erkang Zhu, Beibin Li, Li Jiang, Xiaoyun Zhang, Chi Wang | ArXiv 2023 | - | 
 | World Models David Ha, Jürgen Schmidhuber  | [arXiv](https://arxiv.org/abs/1803.10122?utm_source=chatgpt.com) | - | - | - | 
 | DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning  | [arXiv](https://arxiv.org/abs/2501.12948) | - | - | - | 
+| Attention Is All You Need  | https://arxiv.org/abs/1706.03762 | Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin | - | - | 
 
 ## Open Source Repos (with code)
 
