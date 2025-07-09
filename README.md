@@ -37,6 +37,7 @@
 
 | Title | Link | Author | Date |
 |-------|------|--------|------|
+| Open-Sora | https://github.com/hpcaitech/Open-Sora | - | - |
 | NeMo | https://github.com/NVIDIA/NeMo | Nvidia | - |
 | OLMo | [link]([https://arxiv.org/abs/2502.13189](https://github.com/allenai/OLMo)) | - | - |
 | nanoGPT | [link](https://github.com/karpathy/nanoGPT) | - | - |
