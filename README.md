@@ -5,6 +5,7 @@
 
 | Title | Link | Author | Date | Highlight | 
 |-------|------|--------|------|------|
+|GPT-4 Technical Report|https://arxiv.org/abs/2303.08774?utm_source=chatgpt.com|--------|------|------|
 |A Survey on Large Language Models with some Insights on their Capabilities and Limitations| https://arxiv.org/pdf/2501.04040 |--------|------|------|
 |Potemkin Understanding in Large Language Models | https://arxiv.org/abs/2506.21521?utm_source=chatgpt.com | Marina Mancoridis, Bec Weeks, Keyon Vafa, Sendhil Mullainathan | 26 Jun 2025 |You can not create AGI with LLM|
 |Vibe Coding vs. Agentic Coding: Fundamentals and Practical Implications of Agentic AI |https://arxiv.org/abs/2505.19443|--------|------|------|
