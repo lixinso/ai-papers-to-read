@@ -5,6 +5,7 @@
 
 | Title | Link | Author | Date | Highlight | 
 |-------|------|--------|------|------|
+|Small Language Models are the Future of Agentic AI|https://arxiv.org/pdf/2506.02153|--------|------| LLM-to-SLM Agent Conversion|
 |GPT-4 Technical Report|https://arxiv.org/abs/2303.08774?utm_source=chatgpt.com|--------|------|GPT-4 report includes 26 expert exams; illustrates real-world barometers. State-of-the-art multimodal. Illustrates current limits and evaluation style of frontier models |
 |A Survey on Large Language Models with some Insights on their Capabilities and Limitations| https://arxiv.org/pdf/2501.04040 |--------|------|------|
 |Potemkin Understanding in Large Language Models | https://arxiv.org/abs/2506.21521?utm_source=chatgpt.com | Marina Mancoridis, Bec Weeks, Keyon Vafa, Sendhil Mullainathan | 26 Jun 2025 |You can not create AGI with LLM|
