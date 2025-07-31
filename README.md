@@ -5,6 +5,7 @@
 
 | Title | Link | Author | Date | Highlight | 
 |-------|------|--------|------|------|
+|Training language models to follow instructions with human feedback|------|Ouyang et al.,|2022|often called the InstructGPT paper-|
 2023 06	Textbooks Are All You Need (phi-1)	Sébastien Bubeck, Ronen Eldan, Suriya Gunasekar 	2306.11644 
 2023 05	TinyStories: How Small Can Language Models Be and Still Speak Coherent English?	Ronen Eldan, Yuanzhi Li	2305.07759 
 2023 06	Orca: Progressive Learning from Complex Explanation Traces of GPT-4	Subhabrata Mukherjee, Arindam Mitra, Hamid Palangi, Ahmed H. Awadallah	2306.02707 
