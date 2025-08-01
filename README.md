@@ -5,7 +5,6 @@
 
 | Title | Link | Author | Date | Highlight | 
 |-------|------|--------|------|------|
-
 |DeepSeek-R1|https://github.com/deepseek-ai/DeepSeek-R1|--------|------|Distillation: Smaller Models Can Be Powerful Too|
 |Training language models to follow instructions with human feedback|------|Ouyang et al.,|2022|often called the InstructGPT paper-|
 |Textbooks Are All You Need (phi-1)|------|2023 06|Sébastien Bubeck, Ronen Eldan, Suriya Gunasekar|2306.11644 |
