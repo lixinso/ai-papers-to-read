@@ -6,9 +6,9 @@
 | Title | Link | Author | Date | Highlight | 
 |-------|------|--------|------|------|
 |Training language models to follow instructions with human feedback|------|Ouyang et al.,|2022|often called the InstructGPT paper-|
-2023 06	Textbooks Are All You Need (phi-1)	Sébastien Bubeck, Ronen Eldan, Suriya Gunasekar 	2306.11644 
-2023 05	TinyStories: How Small Can Language Models Be and Still Speak Coherent English?	Ronen Eldan, Yuanzhi Li	2305.07759 
-2023 06	Orca: Progressive Learning from Complex Explanation Traces of GPT-4	Subhabrata Mukherjee, Arindam Mitra, Hamid Palangi, Ahmed H. Awadallah	2306.02707 
+|Textbooks Are All You Need (phi-1)|------|2023 06|Sébastien Bubeck, Ronen Eldan, Suriya Gunasekar|2306.11644 |
+|TinyStories: How Small Can Language Models Be and Still Speak Coherent English?|2305.07759 | Ronen Eldan, Yuanzhi Li|2023 05|------|
+|Orca: Progressive Learning from Complex Explanation Traces of GPT-4|2306.02707 |Subhabrata Mukherjee, Arindam Mitra, Hamid Palangi, Ahmed H. Awadallah|2023 06|------|
 |Small Language Models are the Future of Agentic AI|https://arxiv.org/pdf/2506.02153|--------|------| LLM-to-SLM Agent Conversion|
 |GPT-4 Technical Report|https://arxiv.org/abs/2303.08774?utm_source=chatgpt.com|--------|------|GPT-4 report includes 26 expert exams; illustrates real-world barometers. State-of-the-art multimodal. Illustrates current limits and evaluation style of frontier models |
 |A Survey on Large Language Models with some Insights on their Capabilities and Limitations| https://arxiv.org/pdf/2501.04040 |--------|------|------|
