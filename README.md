@@ -5,6 +5,8 @@
 
 | Title | Link | Author | Date | Highlight | 
 |-------|------|--------|------|------|
+
+|Hierarchical Reasoning Model|https://arxiv.org/html/2506.21734v1| Guan Wang1,†, Jin Li1, Yuhao Sun1, Xing Chen1, Changling Liu1, Yue Wu1, Meng Lu1, Sen Song2, Yasin Abbasi Yadkori1, Sapient Intelligence, Singapore |------|------|
 |DeepSeek-R1|https://github.com/deepseek-ai/DeepSeek-R1|--------|------|Distillation: Smaller Models Can Be Powerful Too|
 |Training language models to follow instructions with human feedback|------|Ouyang et al.,|2022|often called the InstructGPT paper-|
 |Textbooks Are All You Need (phi-1)|------|2023 06|Sébastien Bubeck, Ronen Eldan, Suriya Gunasekar|2306.11644 |
