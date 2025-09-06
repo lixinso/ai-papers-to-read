@@ -5,6 +5,7 @@
 
 | Title | Link | Author | Date | Highlight | 
 |-------|------|--------|------|------|
+|Neither Valid nor Reliable? Investigating the Use of LLMs as Judges|https://arxiv.org/abs/2508.18076|--------|------|------|
 |gpt-oss|https://github.com/openai/gpt-oss|--------|------|------|
 |The Ultra-Scale Playbook:Training LLMs on GPU Clusters | https://huggingface.co/spaces/nanotron/ultrascale-playbook?section=high-level_overview |Hugging Face|Feb 19, 2025|------|
 |Magentic-UI: Towards Human-in-the-loop Agentic Systems|https://arxiv.org/abs/2507.22358v1|Microsoft Research AI Frontiers|------|------|
