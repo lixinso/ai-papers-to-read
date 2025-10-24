@@ -50,6 +50,7 @@
 
 | Title | Link | Author | Date |
 |-------|------|--------|------|
+|nanoChat|https://github.com/karpathy/nanochat|karpathy|2025|
 | Open-Sora | https://github.com/hpcaitech/Open-Sora | - | - |
 | NeMo | https://github.com/NVIDIA/NeMo | Nvidia | - |
 | OLMo | [link]([https://arxiv.org/abs/2502.13189](https://github.com/allenai/OLMo)) | - | - |
