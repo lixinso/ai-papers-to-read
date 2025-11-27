@@ -5,6 +5,7 @@
 
 | Title | Link | Author | Date | Highlight | 
 |-------|------|--------|------|------|
+|Introducing Nested Learning: A new ML paradigm for continual learning|https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/|Ali Behrouz, Vahab Mirrokni|November 7, 2025|Nested Learning - new ML paradigm for continual learning|
 |Generating Physically Stable and Buildable Brick Structures from Text|https://arxiv.org/abs/2505.05469|Ava Pun, Kangle Deng, Ruixuan Liu, Deva Ramanan, Changliu Liu, Jun-Yan Zhu|2025-05|BrickGPT|
 |Neither Valid nor Reliable? Investigating the Use of LLMs as Judges|https://arxiv.org/abs/2508.18076|--------|------|------|
 |gpt-oss|https://github.com/openai/gpt-oss|--------|------|------|
