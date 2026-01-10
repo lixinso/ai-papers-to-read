@@ -5,6 +5,7 @@
 
 | Title | Link | Author | Date | Highlight | 
 |-------|------|--------|------|------|
+|Vision Language Models in Autonomous Driving: A Survey and Outlook|https://ieeexplore.ieee.org/document/10531702  https://github.com/ge25nab/Awesome-VLM-AD-ITS |--------|------|------|
 | Learning Transferable Visual Models From Natural Language Supervision (CLIP, 2021)  |------|--------|------|------|
 |mHC: Manifold-Constrained Hyper-Connections|https://arxiv.org/pdf/2512.24880|DeepSeek-AI||------|
 |Introducing Nested Learning: A new ML paradigm for continual learning|https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/|Ali Behrouz, Vahab Mirrokni|November 7, 2025|Nested Learning - new ML paradigm for continual learning|
