@@ -5,7 +5,7 @@
 
 | Title | Link | Author | Date | Highlight | 
 |-------|------|--------|------|------|
-| “Learning Transferable Visual Models From Natural Language Supervision” (CLIP, 2021)  |------|--------|------|------|
+| Learning Transferable Visual Models From Natural Language Supervision (CLIP, 2021)  |------|--------|------|------|
 |mHC: Manifold-Constrained Hyper-Connections|https://arxiv.org/pdf/2512.24880|DeepSeek-AI||------|
 |Introducing Nested Learning: A new ML paradigm for continual learning|https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/|Ali Behrouz, Vahab Mirrokni|November 7, 2025|Nested Learning - new ML paradigm for continual learning|
 |Generating Physically Stable and Buildable Brick Structures from Text|https://arxiv.org/abs/2505.05469|Ava Pun, Kangle Deng, Ruixuan Liu, Deva Ramanan, Changliu Liu, Jun-Yan Zhu|2025-05|BrickGPT|
