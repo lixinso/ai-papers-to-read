@@ -5,6 +5,7 @@
 
 | Date | Title | Highlight | Author |
 |------|-------|-----------|--------|
+|------|GR00T N1: An Open Foundation Model for Generalist Humanoid Robots  [link1](https://arxiv.org/html/2503.14734v1#bib)   [link2](https://github.com/NVIDIA/Isaac-GR00T)  |-----------|--------|
 |June 20, 2024|Vision Language Models in Autonomous Driving: A Survey and Outlook [link1](https://ieeexplore.ieee.org/document/10531702) [link2](https://github.com/ge25nab/Awesome-VLM-AD-ITS)|------|--------|
 |Feb 26, 2021|Learning Transferable Visual Models From Natural Language Supervision (CLIP, 2021)|------|--------|
 |Dec 31, 2025|mHC: Manifold-Constrained Hyper-Connections [link](https://arxiv.org/pdf/2512.24880)|------|DeepSeek-AI|
