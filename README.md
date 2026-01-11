@@ -55,6 +55,7 @@
 
 | Title | Author | Date |
 |-------|--------|------|
+| LeRobot https://huggingface.co/docs/lerobot/index |-|-|
 |nanoChat [link](https://github.com/karpathy/nanochat)|karpathy|2025|
 |Open-Sora [link](https://github.com/hpcaitech/Open-Sora)|-|-|
 |NeMo [link](https://github.com/NVIDIA/NeMo)|Nvidia|-|
