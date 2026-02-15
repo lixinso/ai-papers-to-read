@@ -19,6 +19,7 @@
 |Jan 20, 2025|DeepSeek-R1 [link](https://github.com/deepseek-ai/DeepSeek-R1)|Distillation: Smaller Models Can Be Powerful Too|--------|
 |2022|Training language models to follow instructions with human feedback|often called the InstructGPT paper-|Ouyang et al.,|
 |Sébastien Bubeck, Ronen Eldan, Suriya Gunasekar|Textbooks Are All You Need (phi-1)|2306.11644|2023 06|
+|2023 04|Generative Agents: Interactive Simulacra of Human Behavior [link](https://arxiv.org/abs/2304.03442)|------|Joon Sung Park, Joseph C. O'Brien, Carrie J. Cai, Meredith Ringel Morris, Percy Liang, Michael S. Bernstein|
 |2023 05|TinyStories: How Small Can Language Models Be and Still Speak Coherent English? [link](https://arxiv.org/abs/2305.07759)|------|Ronen Eldan, Yuanzhi Li|
 |2023 06|Orca: Progressive Learning from Complex Explanation Traces of GPT-4 [link](https://arxiv.org/abs/2306.02707)|------|Subhabrata Mukherjee, Arindam Mitra, Hamid Palangi, Ahmed H. Awadallah|
 |June 2, 2025|Small Language Models are the Future of Agentic AI [link](https://arxiv.org/pdf/2506.02153)|LLM-to-SLM Agent Conversion|--------|
